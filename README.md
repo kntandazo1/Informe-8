@@ -22,9 +22,14 @@ Determinar que tipo de transformadores que se usan para realizar: la distribucio
 
 #### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
-##### --------------------------------------------CAPÍTULO 1-----------------------------------
+##### ----------------------------------------- CAPÍTULO 15 -----------------------------------
 
-##### --------------------------------------------CAPÍTULO 1-----------------------------------
+##### SECCIÓN 15–1 El sistema de los números complejos 
+
+
+##### ----------------------------------------- CAPÍTULO 16 -----------------------------------
+
+
 
 #### 4. VIDEO:
 
