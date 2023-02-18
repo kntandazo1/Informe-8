@@ -10,13 +10,15 @@ NRC: 10067
 
 ##### OBJETIVOS GENERALES:
 
-Identificar los diversos tipos de inductores que existen, y su aplicación en transformadores, comprendiendo los conceptos de cada uno.
+Aprender sobre los circuitos RC y RL, podrás encontrar sus diferentes fases de carga y descarga apoyados en análisis matemáticos para relacionarlo con la teoría. 
+objetivos específicos.
 
 ##### OBJETIVOS ESPECÍFICOS:
 
-Analizar el comportamiento y las características que se dan a partir de la de combinación de Inductores en serie en CA.
+Defina y comprenda la diferencia entre los circuitos RC y RL. Aprende sobre el análisis de circuitos en paralelo y en serie en circuitos RC y RL. Análisis dinámico de 
+oscilaciones electromagnéticas en circuitos RLC sin fuente de alimentación externa. Estudiar las características de los circuitos RC y RL. Respuestas a onda cuadrada y 
+tensión sinusoidal. Resistencia inductiva y admitancia.
 
-Determinar que tipo de transformadores que se usan para realizar: la distribucion, la subtransmision y la transmisión de corriente eléctrica.
 
 #### 2. MARCO TEÓRICO:
 
@@ -140,13 +142,46 @@ Determinar que tipo de transformadores que se usan para realizar: la distribucio
 
 ![image](https://user-images.githubusercontent.com/117767335/219822787-3f6eff95-9e1e-4ef2-971a-20b0661237aa.png)
 
-
-
 ##### ----------------------------------------- CAPÍTULO 16 -----------------------------------
 
+##### SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
 
+![image](https://user-images.githubusercontent.com/117767335/219825444-c58c5409-8aac-44b8-929b-9894fd4a26b8.png)
+
+##### SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117767335/219825545-c862f673-5f28-44b6-bbe6-02df5a880bd9.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219825564-6bdbf617-325e-4f93-9c6a-d57606256ee5.png)
+
+##### SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+![image](https://user-images.githubusercontent.com/117767335/219825791-5dd4aaa7-2ea9-406a-9b54-92bc07bd20eb.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219825874-36b01b9f-821b-4d5f-a924-3333914e2fdd.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219825890-fea79e5f-9daf-4b2d-9d9f-77772d3b1cb7.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219825932-52af2af3-1630-4cf9-a2c4-13d6e817d779.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219826000-c5298d08-bddf-430b-b1d1-c53e56ec0217.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219826040-fa66bd42-e930-4d7b-9c7b-b774ab59853e.png)
+
+##### SECCIÓN 16–4 Impedancia y admisión de circuitos RL en paralelo
+
+![image](https://user-images.githubusercontent.com/117767335/219826076-149a0c49-84d8-4d6c-8a44-fe8ec8ac14c3.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219826087-370bc926-e72d-4463-94a5-9c7a1c5b2c8b.png)
+
+##### SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+![image](https://user-images.githubusercontent.com/117767335/219826120-e36cf013-6bca-4586-a40e-e61cb020dd09.png)
+
+![image](https://user-images.githubusercontent.com/117767335/219826152-1584e939-0e06-41e2-bef2-5d6e4e130b68.png)
 
 #### 4. VIDEO:
+
 
 #### 5. CONCLUSIONES:
 
