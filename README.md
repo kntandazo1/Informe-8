@@ -10,17 +10,23 @@ NRC: 10067
 
 ##### OBJETIVOS GENERALES:
 
-Aprender sobre los circuitos RC y RL, podrás encontrar sus diferentes fases de carga y descarga apoyados en análisis matemáticos para relacionarlo con la teoría. 
-objetivos específicos.
+Aprender sobre los circuitos RC y RL, podrás encontrar sus diferentes fases de carga y descarga 
+apoyados en análisis matemáticos para relacionarlo con la teoría. 
 
 ##### OBJETIVOS ESPECÍFICOS:
 
-Defina y comprenda la diferencia entre los circuitos RC y RL. Aprende sobre el análisis de circuitos en paralelo y en serie en circuitos RC y RL. Análisis dinámico de 
-oscilaciones electromagnéticas en circuitos RLC sin fuente de alimentación externa. Estudiar las características de los circuitos RC y RL. Respuestas a onda cuadrada y 
-tensión sinusoidal. Resistencia inductiva y admitancia.
+Definir y comprender la diferencia entre los circuitos RC y RL. 
 
+Aprender sobre el análisis de circuitos en paralelo y en serie en circuitos RC y RL. 
+
+Analizar las oscilaciones electromagnéticas en circuitos RLC sin fuente de alimentación 
+externa. Estudiar las características de los circuitos RC y RL.
 
 #### 2. MARCO TEÓRICO:
+
+![2](https://user-images.githubusercontent.com/117767335/219829338-0be5a575-0f83-4d42-88df-63568649ab7c.png)
+
+![3](https://user-images.githubusercontent.com/117767335/219829340-6566ebec-a714-4765-9a2e-3f594ddd2767.png)
 
 #### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
@@ -184,6 +190,13 @@ tensión sinusoidal. Resistencia inductiva y admitancia.
 
 
 #### 5. CONCLUSIONES:
+
+Se concluye que los circuitos RC son circuitos que van a estar compuestos por una resistencia y un
+condensador, donde su principal característica es que la corriente varia con el tiempo.
+
+En conclusión dentro de los circuitos RLC se utilizan resistencias, capacitores e inductores, 
+también podemos decir que hay un ángulo  de desfasaje entre las tensiones y corrientes, que puede 
+llegar a hacerse cero.
 
 #### 6. BIBLIOGRAFÍA:
 
