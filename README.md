@@ -10,8 +10,8 @@ NRC: 10067
 
 ##### OBJETIVOS GENERALES:
 
-Aprender sobre los circuitos RC y RL, podrás encontrar sus diferentes fases de carga y descarga 
-apoyados en análisis matemáticos para relacionarlo con la teoría. 
+Aprender sobre los circuitos RC y RL, para de esta forma encontrar sus diferentes fases de carga y descarga 
+los mismos que serán verificados mediante análisis matemáticos para relacionarlos con la teoría. 
 
 ##### OBJETIVOS ESPECÍFICOS:
 
