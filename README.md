@@ -188,6 +188,7 @@ externa. Estudiar las características de los circuitos RC y RL.
 
 #### 4. VIDEO:
 
+https://youtu.be/6CHeNrFJBlg
 
 #### 5. CONCLUSIONES:
 
